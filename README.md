@@ -76,5 +76,6 @@
 #### 栈
 
 - 20.Valid Parentheses
+- 71.Simplify Path
 
 ### 算法部分
