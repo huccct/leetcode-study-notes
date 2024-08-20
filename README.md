@@ -77,5 +77,6 @@
 
 - 20.Valid Parentheses
 - 71.Simplify Path
+- 225.Implement Stack using Queues
 
 ### 算法部分
