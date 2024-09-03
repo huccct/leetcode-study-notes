@@ -79,5 +79,6 @@
 - 71.Simplify Path
 - 225.Implement Stack using Queues
 - 232.Implement Queue using Stacks
+- 1047.Remove All Adjacent Duplicates In String
 
 ### 算法部分
