@@ -89,3 +89,7 @@
 
 - 912.Sort an Array
 - 15.3Sum
+
+#### 二分思想
+
+- 704.Binary Search
