@@ -93,3 +93,4 @@
 #### 二分思想
 
 - 704.Binary Search
+- 35.Search Insert Position
