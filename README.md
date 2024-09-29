@@ -95,3 +95,4 @@
 - 704.Binary Search
 - 35.Search Insert Position
 - 153.Find Minimum in Rotated Sorted Array
+- 69.Sqrt(x)
