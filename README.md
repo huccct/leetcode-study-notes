@@ -96,3 +96,7 @@
 - 35.Search Insert Position
 - 153.Find Minimum in Rotated Sorted Array
 - 69.Sqrt(x)
+
+#### 回溯和搜索
+
+-46.Permutations
