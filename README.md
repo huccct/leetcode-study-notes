@@ -106,3 +106,4 @@
 - 51.N-Queens
 - 37.Sudoku Solver
 - 77.Combinations
+- 78.Subsets
