@@ -121,3 +121,4 @@
 - 452.Minimum Number of Arrows to Burst Balloons
 - 435.Non-overlapping Intervals
 - 621.Task Scheduler
+- 649.Dota2 Senate
